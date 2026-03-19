@@ -1,5 +1,7 @@
 # Smart Event Dashboard
 
+ **[Live Demo](https://nitin386.github.io/event-dashboard/)**
+
 A lightweight browser-based event management app built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
 ## Features
@@ -49,7 +51,8 @@ event-calendar/
 
 ## Screenshots
 
-> _Add a screenshot here — `![Dashboard preview](screenshot.png)`_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57342cdc-bb81-438a-b6c3-ee58e6a8c553" />
+
 
 ## Author
 

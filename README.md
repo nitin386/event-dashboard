@@ -27,7 +27,7 @@ No setup needed. Just open the file in a browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/nitin386/<repo-name>.git
+git clone https://github.com/nitin386/event-dashboard.git
 
 # Open in browser
 open index.html
